@@ -1,4 +1,4 @@
-Pyrogram==1.4.16
+git+https://github.com/Venomhash123/pyro1.4.26testing.git
 flask
 TgCrypto
 pyromod
@@ -10,4 +10,3 @@ hachoir
 mutagen
 psutil
 aiofiles
-ntplib
